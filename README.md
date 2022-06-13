@@ -18,15 +18,15 @@ I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about tea
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=webtaken&theme=algolia" alt="webtaken(AKA. Saul)" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webtaken&theme=algolia&layout=compact" alt="webtaken(AKA. Saul)" /></p>
 
 <br>
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+<p align="center"> <a href="https://github.com/webtaken"><img
+      src="https://github-profile-trophy.vercel.app/?username=webtaken&row=1&column=3&theme=algolia" alt="webtaken(AKA. Saul)" /></a>  </p>
 
 <!-- algolia -->
 <br>
