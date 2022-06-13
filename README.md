@@ -7,7 +7,7 @@
 
 <h4 align="center">
 I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about team work, coding, and web technologies❤️. <br />
-	Besides my current time as an student university, I also like to play guitar in an peaceful afternoon 🎸. I am in the process of learning as much as I can, I think the best way to improve in this area is to take challenges in different jobs.
+	Besides my current time as an student university, I also like to play guitar in a peaceful afternoon 🎸. I am in the process of learning as much as I can, I think the best way to improve in this area is to take challenges in different jobs.
 </h4>
 <br>
 <!--<div align="center">
