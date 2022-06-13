@@ -33,7 +33,7 @@ I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about tea
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaypavasiya&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webtaken&custom_title=Saul's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
@@ -49,17 +49,17 @@ I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about tea
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:jaypavasiya7@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/jaypavasiya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/jay-pavasiya-22520516b"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/jay_pavasiya"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	<a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
+	<a href="mailto:luckly083@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://github.com/webtaken"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/saul-rojas-6885b1188/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://twitter.com/node_srojas1"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+	<a href="https://stackoverflow.com/users/7872942/saul-rojas"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
 </p>
 
 ----
-Credit: [jaypavasiya](https://github.com/jaypavasiya)
+Credit (thanks man for the template) checkout his profile 👀: [jaypavasiya](https://github.com/jaypavasiya)
 
-Last Edited on: 04/15/2022
+Last Edited on: 12/06/2022
