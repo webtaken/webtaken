@@ -33,7 +33,7 @@ I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about tea
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webtaken&custom_title=Saul's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/webtaken"><img alt="Saul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webtaken&custom_title=Saul's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
