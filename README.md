@@ -17,6 +17,19 @@ I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about tea
 </div> -->
 <hr/> 
 
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:luckly083@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://github.com/webtaken"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/saul-rojas-6885b1188/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://twitter.com/node_srojas1"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+	<a href="https://stackoverflow.com/users/7872942/saul-rojas"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
+	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	
+</p>
+
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=webtaken&theme=algolia" alt="webtaken(AKA. Saul)" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webtaken&theme=algolia&layout=compact" alt="webtaken(AKA. Saul)" /></p>
@@ -46,18 +59,7 @@ I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about tea
 
 <hr/>
 
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:luckly083@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/webtaken"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/saul-rojas-6885b1188/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/node_srojas1"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	<a href="https://stackoverflow.com/users/7872942/saul-rojas"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
-	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
-	
-</p>
+
 
 ----
 Credit (thanks man for the template) checkout his profile 👀: [jaypavasiya](https://github.com/jaypavasiya)
