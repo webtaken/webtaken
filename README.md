@@ -6,7 +6,7 @@
 <!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
 <h4 align="center">
-I'm a Junior Web Developer based in Perú 🟥⬜🟥, I am passionate about team work, coding, and web technologies❤️. <br />
+I'm a Web Developer based in Perú 🟥⬜🟥, I am passionate about team work, coding, and web technologies❤️. <br />
 	Besides my current time as an student university, I also like to play guitar in a peaceful afternoon 🎸. I am in the process of learning as much as I can, I think the best way to improve in this area is to take challenges in different jobs.
 </h4>
 <br>
