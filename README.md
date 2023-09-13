@@ -29,7 +29,7 @@ I'm a Web Developer based in Perú 🟥⬜🟥, I am passionate about team work,
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
 </p>
-![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtaken&show_icons=true&theme=dark)
+<a href="https://github-readme-stats.vercel.app/api?username=webtaken&show_icons=true&theme=dark">Saul's GitHub stats</a>
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=webtaken&theme=algolia" alt="webtaken(AKA. Saul)" /></p>
