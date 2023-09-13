@@ -34,6 +34,7 @@ I'm a Web Developer based in Perú 🟥⬜🟥, I am passionate about team work,
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=webtaken&theme=algolia" alt="webtaken(AKA. Saul)" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webtaken&theme=algolia&layout=compact" alt="webtaken(AKA. Saul)" /></p>
 ![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtaken&show_icons=true&theme=dark)
+[![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtaken)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <hr/>
 
