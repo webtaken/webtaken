@@ -29,9 +29,10 @@ I build web apps end to end — TypeScript up front, Go and Python when it count
 ## 📊 Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=webtaken&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Saul's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webtaken&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=webtaken&theme=transparent&hide_border=true" alt="Saul's contribution streak" />
 </p>
+
+[![Saul's contribution chart](https://ghchart.rshah.org/webtaken)](https://github.com/webtaken)
 
 ## 🤝 Find me
 
