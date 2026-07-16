@@ -29,6 +29,8 @@ I build web apps end to end — TypeScript up front, Go and Python when it count
 
 ## 🌱 Open source
 
+- **[bitmakerla/estela](https://github.com/bitmakerla/estela)** — elastic web scraping cluster (202★). 33 merged PRs across the stats module, billing/checkout flow, and frontend mockups.
+- **[NdoleStudio/lemonsqueezy-go](https://github.com/NdoleStudio/lemonsqueezy-go)** — Go SDK for the Lemon Squeezy API (87★). Merged [subscription object](https://github.com/NdoleStudio/lemonsqueezy-go/pull/11) and [subscription item](https://github.com/NdoleStudio/lemonsqueezy-go/pull/12) support.
 - **[crafter-station/hack0](https://github.com/crafter-station/hack0)** — hackathons & tech events platform for LATAM (33★). Shipped a [timezone selector + conversion fix](https://github.com/crafter-station/hack0/pull/127) and [contribution guidelines](https://github.com/crafter-station/hack0/pull/13).
 
 ## 📊 Stats
