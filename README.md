@@ -1,6 +1,6 @@
 # Hi, I'm Saul 👋
 
-📍 **Lima, Perú** · 💻 **Full-stack developer** · 🤖 **Building AI-powered products**
+📍 **Arequipa, Perú** · 💻 **Full-stack developer** · 🤖 **Building AI-powered products**
 
 I build web apps end to end — TypeScript up front, Go and Python when it counts — and I'm always shipping side projects. Currently deep into AI agents and developer tooling.
 
