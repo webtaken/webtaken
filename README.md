@@ -16,11 +16,12 @@ I build web apps end to end — TypeScript up front, Go and Python when it count
 ## 🚀 Now building
 
 - 🦞 **[PapayaClaw](https://github.com/webtaken/PapayaClaw)** — “Heroku for [OpenClaw](https://github.com/openclaw/openclaw)”: deploy a secure, self-hosted AI assistant to your own VPS in minutes. No SSH, no Docker, no YAML.
-- 📈 **[AutoInfluencer](https://github.com/webtaken/auto-influencer)** — autonomous AI agent that creates, posts, and optimizes social media content while you sleep.
+- 🧠 **[QuEZ](https://qu3z.vercel.app)** — describe a quiz in plain language, AI builds it. Fast assessment creation for educators and trainers.
 
 ## 📌 Selected work
 
 - 🎥 **[GPTube](https://github.com/webtaken/GPTube)** — AI-powered YouTube video & audience analysis. Next.js frontend, Go Fiber backend.
+- 📈 **[AutoInfluencer](https://github.com/webtaken/auto-influencer)** — autonomous AI agent that creates, posts, and optimizes social media content while you sleep.
 - 📬 **[Collecty](https://github.com/webtaken/collecty)** — embeddable email-collection widgets for any site. Next.js 15, Drizzle ORM, Auth.js.
 - 🧭 **[get-aboard](https://github.com/webtaken/get-aboard)** — onboarding flows so junior devs stop drowning in tribal knowledge.
 - 🐏 **[jojo](https://github.com/webtaken/jojo)** — tiny shell utility that warns you before your RAM runs out.
