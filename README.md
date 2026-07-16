@@ -27,6 +27,10 @@ I build web apps end to end — TypeScript up front, Go and Python when it count
 - 🐏 **[jojo](https://github.com/webtaken/jojo)** — tiny shell utility that warns you before your RAM runs out.
 - 💬 **[WhatsappCloudAPIWebhook](https://github.com/webtaken/WhatsappCloudAPIWebhook)** — minimal webhook starter for the WhatsApp Cloud API.
 
+## 🌱 Open source
+
+- **[crafter-station/hack0](https://github.com/crafter-station/hack0)** — hackathons & tech events platform for LATAM (33★). Shipped a [timezone selector + conversion fix](https://github.com/crafter-station/hack0/pull/127) and [contribution guidelines](https://github.com/crafter-station/hack0/pull/13).
+
 ## 📊 Stats
 
 <p>
